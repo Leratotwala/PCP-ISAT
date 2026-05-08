@@ -1,0 +1,3 @@
+﻿Smith,John, 0810721196, john12@gmail.com, 0402201481080, Kemptonpark
+Ntuli,Ntando, 0648678841, ntando2@gmail.com, 076554432415, germiston
+Andiso,Grace, 073946966, grace12@gmail.com, 009876543489, Johannesburg
